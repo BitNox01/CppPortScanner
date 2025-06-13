@@ -1,5 +1,8 @@
-# Ignora il file di log generato durante le scansioni
+# Ignora file di log
 scan_results.txt
 
-# Ignora le configurazioni di Visual Studio Code
+# Ignora cartella VSCode
 .vscode/
+
+# Ignora cartelle build/debug e build/release
+build/
