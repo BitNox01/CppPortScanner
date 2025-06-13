@@ -1,0 +1,5 @@
+# Ignora il file di log generato durante le scansioni
+scan_results.txt
+
+# Ignora le configurazioni di Visual Studio Code
+.vscode/
