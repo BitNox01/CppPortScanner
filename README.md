@@ -25,7 +25,7 @@ Example:
 main.exe 192.168.1.1 20 80
 ```
 
-## 🧠 Hacker Style Description
+## Description
 
 Powerful. Lightweight. Brutal.
 This C++ TCP scanner digs through the lower layers of the network and shows you what’s really going on underneath. Banner grabbing included. No fluff, just results.
